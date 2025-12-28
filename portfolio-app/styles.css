@@ -187,6 +187,9 @@ header.scrolled {
 
 .hero-image img {
     max-width: 100%;
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
     border-radius: 20px;
     box-shadow: var(--shadow);
 }
