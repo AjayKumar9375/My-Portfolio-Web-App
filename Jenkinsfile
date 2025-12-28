@@ -2,7 +2,7 @@ pipeline{
     agent any
     
     
-    // stages{
+    stages{
     //     stage("Checkout"){
     //         steps{
     //             git url: 'https://github.com/AjayKumar9375/My-Portfolio-Web-App.git', branch: 'master'
