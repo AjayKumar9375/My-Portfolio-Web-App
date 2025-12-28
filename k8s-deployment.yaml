@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: portfolio-container
-        image: ajaykumar9375/portfolio-app:v.6  # ← You must update this
+        image: ajaykumar9375/portfolio-app:v.7  # ← You must update this
         ports:
         - containerPort: 80
         resources:
